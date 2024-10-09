@@ -1,2 +1,2 @@
 - To make changes to an existing table
-- `npx sequelize migration:create --name modify_bookings_add_new_fields  `
+- `npx sequelize migration:create --name modify_bookings_add_new_fields`
